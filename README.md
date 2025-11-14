@@ -8,7 +8,7 @@ A comprehensive stepper motor control system featuring an ESP32-based controller
 
 ### 🎛️ Hardware Control
 - **ESP32 Microcontroller** with TB6600 stepper driver compatibility
-- **High Precision Control** with microstepping support (up to 1/8 step)
+- **High Precision Control** with microstepping support (up to 1/32 step)
 - **Flexible Configuration** for steps per revolution, speed, and acceleration
 - **Safe Operation** with emergency stop and controlled deceleration
 
